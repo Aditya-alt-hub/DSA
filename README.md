@@ -19,9 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Aditya-alt-hub/DSA/tree/master/0020-valid-parentheses) |
 | [0796-rotate-string](https://github.com/Aditya-alt-hub/DSA/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Aditya-alt-hub/DSA/tree/master/0796-rotate-string) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Aditya-alt-hub/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
