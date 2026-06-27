@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Aditya-alt-hub/DSA/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Aditya-alt-hub/DSA/tree/master/0485-max-consecutive-ones) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya-alt-hub/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -49,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aditya-alt-hub/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+## Sorting
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya-alt-hub/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya-alt-hub/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
