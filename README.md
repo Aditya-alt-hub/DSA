@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Aditya-alt-hub/DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Aditya-alt-hub/DSA/tree/master/0058-length-of-last-word) |
 | [0796-rotate-string](https://github.com/Aditya-alt-hub/DSA/tree/master/0796-rotate-string) |
+| [2390-removing-stars-from-a-string](https://github.com/Aditya-alt-hub/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aditya-alt-hub/DSA/tree/master/0020-valid-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/Aditya-alt-hub/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya-alt-hub/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Aditya-alt-hub/DSA/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
