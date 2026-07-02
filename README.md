@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Aditya-alt-hub/DSA/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Aditya-alt-hub/DSA/tree/master/0485-max-consecutive-ones) |
+| [0739-daily-temperatures](https://github.com/Aditya-alt-hub/DSA/tree/master/0739-daily-temperatures) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya-alt-hub/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aditya-alt-hub/DSA/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/Aditya-alt-hub/DSA/tree/master/0739-daily-temperatures) |
 | [2390-removing-stars-from-a-string](https://github.com/Aditya-alt-hub/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
 |  |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/Aditya-alt-hub/DSA/tree/master/2390-removing-stars-from-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Aditya-alt-hub/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
