@@ -15,13 +15,15 @@
  */
 class Solution {
     public List<Integer> rightSideView(TreeNode root) {
-        List<Integer>ans=new ArrayList<>();
+        List<Integer>result=new ArrayList<>();
+
         if(root==null)
         {
-            return ans;
+            return result;
         }
 
         Queue<TreeNode>q=new LinkedList<>();
+
         q.add(root);
 
         while(!q.isEmpty())
@@ -31,9 +33,10 @@ class Solution {
             for(int i=0;i<size;i++)
             {
                 TreeNode curr=q.poll();
+
                 if(i==size-1)
                 {
-                    ans.add(curr.val);
+                    result.add(curr.val);
                 }
 
                 if(curr.left!=null)
@@ -46,6 +49,7 @@ class Solution {
                 }
             }
         }
-        return ans;
+
+        return result;
     }
 }
