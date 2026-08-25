@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aditya-alt-hub/DSA/tree/master/0020-valid-parentheses) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Aditya-alt-hub/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0739-daily-temperatures](https://github.com/Aditya-alt-hub/DSA/tree/master/0739-daily-temperatures) |
 | [2390-removing-stars-from-a-string](https://github.com/Aditya-alt-hub/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Aditya-alt-hub/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Aditya-alt-hub/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aditya-alt-hub/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Aditya-alt-hub/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aditya-alt-hub/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Aditya-alt-hub/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Aditya-alt-hub/DSA/tree/master/0222-count-complete-tree-nodes) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Aditya-alt-hub/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Aditya-alt-hub/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aditya-alt-hub/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Aditya-alt-hub/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aditya-alt-hub/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Aditya-alt-hub/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aditya-alt-hub/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Aditya-alt-hub/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Aditya-alt-hub/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aditya-alt-hub/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Aditya-alt-hub/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aditya-alt-hub/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Aditya-alt-hub/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Aditya-alt-hub/DSA/tree/master/0222-count-complete-tree-nodes) |
@@ -125,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Aditya-alt-hub/DSA/tree/master/0222-count-complete-tree-nodes) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Aditya-alt-hub/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
