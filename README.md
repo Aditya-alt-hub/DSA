@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Aditya-alt-hub/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Aditya-alt-hub/DSA/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Aditya-alt-hub/DSA/tree/master/0485-max-consecutive-ones) |
+| [0654-maximum-binary-tree](https://github.com/Aditya-alt-hub/DSA/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/Aditya-alt-hub/DSA/tree/master/0739-daily-temperatures) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya-alt-hub/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aditya-alt-hub/DSA/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aditya-alt-hub/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0654-maximum-binary-tree](https://github.com/Aditya-alt-hub/DSA/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/Aditya-alt-hub/DSA/tree/master/0739-daily-temperatures) |
 | [2390-removing-stars-from-a-string](https://github.com/Aditya-alt-hub/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aditya-alt-hub/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Aditya-alt-hub/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Aditya-alt-hub/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/Aditya-alt-hub/DSA/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aditya-alt-hub/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aditya-alt-hub/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aditya-alt-hub/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aditya-alt-hub/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Aditya-alt-hub/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Aditya-alt-hub/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/Aditya-alt-hub/DSA/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aditya-alt-hub/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aditya-alt-hub/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aditya-alt-hub/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -114,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0654-maximum-binary-tree](https://github.com/Aditya-alt-hub/DSA/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/Aditya-alt-hub/DSA/tree/master/0739-daily-temperatures) |
 ## Dynamic Programming
 |  |
@@ -139,4 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aditya-alt-hub/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Aditya-alt-hub/DSA/tree/master/0654-maximum-binary-tree) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Aditya-alt-hub/DSA/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
