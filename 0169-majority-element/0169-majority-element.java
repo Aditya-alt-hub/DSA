@@ -4,9 +4,9 @@ class Solution {
 
         Arrays.sort(nums);
 
-        int freq=1,ans=nums[0];
+        int freq=1;
 
-        for(int i=1;i<=n;i++)
+        for(int i=1;i<n;i++)
         {
             if(nums[i]==nums[i-1])
             {
@@ -15,13 +15,13 @@ class Solution {
             else
             {
                 freq=1;
-                ans=nums[i];
+                
             }
             if(freq>n/2)
             {
-                return ans;
+                return nums[i];
             }
         }
-        return ans;
+        return nums[0];
     }
 }
