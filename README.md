@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aditya-alt-hub/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aditya-alt-hub/DSA/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Aditya-alt-hub/DSA/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Aditya-alt-hub/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0654-maximum-binary-tree](https://github.com/Aditya-alt-hub/DSA/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/Aditya-alt-hub/DSA/tree/master/0739-daily-temperatures) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya-alt-hub/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Aditya-alt-hub/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Aditya-alt-hub/DSA/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/Aditya-alt-hub/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Aditya-alt-hub/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Search
 |  |
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aditya-alt-hub/DSA/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Aditya-alt-hub/DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
