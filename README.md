@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Aditya-alt-hub/DSA/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Aditya-alt-hub/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya-alt-hub/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Aditya-alt-hub/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0654-maximum-binary-tree](https://github.com/Aditya-alt-hub/DSA/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/Aditya-alt-hub/DSA/tree/master/0739-daily-temperatures) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya-alt-hub/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Aditya-alt-hub/DSA/tree/master/0189-rotate-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Aditya-alt-hub/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Aditya-alt-hub/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Aditya-alt-hub/DSA/tree/master/0169-majority-element) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Aditya-alt-hub/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya-alt-hub/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
