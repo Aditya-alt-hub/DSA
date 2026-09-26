@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Aditya-alt-hub/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0796-rotate-string](https://github.com/Aditya-alt-hub/DSA/tree/master/0796-rotate-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Aditya-alt-hub/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [3813-vowel-consonant-score](https://github.com/Aditya-alt-hub/DSA/tree/master/3813-vowel-consonant-score) |
 ## String Matching
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aditya-alt-hub/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/Aditya-alt-hub/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [3813-vowel-consonant-score](https://github.com/Aditya-alt-hub/DSA/tree/master/3813-vowel-consonant-score) |
 ## Monotonic Stack
 |  |
 | ------- |
