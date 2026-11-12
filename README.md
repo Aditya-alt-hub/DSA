@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Aditya-alt-hub/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0654-maximum-binary-tree](https://github.com/Aditya-alt-hub/DSA/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/Aditya-alt-hub/DSA/tree/master/0739-daily-temperatures) |
+| [0912-sort-an-array](https://github.com/Aditya-alt-hub/DSA/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya-alt-hub/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Aditya-alt-hub/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -132,10 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Aditya-alt-hub/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Aditya-alt-hub/DSA/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aditya-alt-hub/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/Aditya-alt-hub/DSA/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya-alt-hub/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Aditya-alt-hub/DSA/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya-alt-hub/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Simulation
 |  |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Aditya-alt-hub/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Aditya-alt-hub/DSA/tree/master/0169-majority-element) |
 | [0654-maximum-binary-tree](https://github.com/Aditya-alt-hub/DSA/tree/master/0654-maximum-binary-tree) |
+| [0912-sort-an-array](https://github.com/Aditya-alt-hub/DSA/tree/master/0912-sort-an-array) |
 ## Cartesian Tree
 |  |
 | ------- |
@@ -225,4 +229,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aditya-alt-hub/DSA/tree/master/0054-spiral-matrix) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Aditya-alt-hub/DSA/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Aditya-alt-hub/DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Aditya-alt-hub/DSA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Aditya-alt-hub/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
